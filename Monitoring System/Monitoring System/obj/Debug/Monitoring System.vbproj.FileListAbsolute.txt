@@ -1,0 +1,31 @@
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe.config
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.pdb
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\GMap.NET.Core.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\System.Data.SQLite.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\System.Data.SQLite.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring_System.Form1.resources
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring_System.Resources.resources
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.vbproj.GenerateResource.cache
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.vbproj.CoreCompileInputs.cache
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.vbproj.CopyComplete
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.exe
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.pdb
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\EntityFramework.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\EntityFramework.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.exe.manifest
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\bin\Debug\Monitoring System.application
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.exe.manifest
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.application
+C:\Users\difa sulthon\Documents\Visual Studio 2017\Monitoring System\Monitoring System\Monitoring System\obj\Debug\Monitoring System.vbprojAssemblyReference.cache
